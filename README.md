@@ -1,53 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hola,%20Mi%20nombre%20es%20Boris%20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hola,%20soy%20Alejandro,%20Bienvenido%20a%20mi%20perfil&fontSize=35" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boriscr&label=PERFIL+VISTO&color=0078d4&style=for-the-badge" alt="boriscr" />
-</p>
-
 
 ### 👨‍💻 Sobre mí
-
-- 🌱 Aprendiendo constantemente sobre **Arquitectura de Software y Optimización**
-- 💬 Pregúntame sobre **PHP, Laravel y Desarrollo Web**
-- ⚡ Resolviendo problemas complejos con soluciones simples.
+- 🎓 Graduado en **Ingeniería Informática** en la Universidad de Cantabria
+- 💻 Con conocimientos en **Java, Spring Boot, Android Studio y MySQL**
+- 🔭 Actualmente buscando trabajo como **desarrollador junior**
+- 🌱 Aprendiendo constantemente nuevas tecnologias
+- 📫 Contacta conmigo: alexaranagomez@gmail.com
 
 ---
 
 ### 🛠 Tecnologías y Herramientas
-
-Herramientas que utilizo para dar vida a mis ideas:
-
+Herramientas que he utilizado en mis proyectos y trabajos:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,github,vscode,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,spring,androidstudio,unreal,mysql,git,github,vscode,postman&perline=6" />
   </a>
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🤝 Conectemos
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=boriscr&show_icons=true&theme=visual_studio_code&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boriscr&layout=compact&theme=visual_studio_code&border_radius=10" />
+  <a href="mailto:alexaranagomez@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://github.com/Alejandro-Arana-Gomez/TFG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ---
-
-### 🤝 Conectemos
-
-<p align="center">
-  <a href="https://linkedin.com/in/kredensir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris" height="30" width="40" /></a>
-  <a href="https://facebook.com/robin.boris.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Boris" height="30" width="40" /></a>
-  <a href="https://instagram.com/boris_kredensir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Boris" height="30" width="40" /></a>
-   <a href="https://github.com/boriscr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Boris" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
------
-Credits: [boriscr](https://github.com/boriscr)
-
-Last Edited on: 06/01/2025
