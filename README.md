@@ -25,6 +25,7 @@ Herramientas que he utilizado en mis proyectos y trabajos:
 <p align="center">
   <a href="mailto:alexaranagomez@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" /></a>
   <a href="https://github.com/Alejandro-Arana-Gomez/TFG" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/alejandro-arana-g%C3%B3mez/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
 ---
